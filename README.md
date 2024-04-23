@@ -23,3 +23,6 @@ A otimização sintótica e assintótica é crucial para conjuntos de dados gran
 
 A abordagem proposta é ideal para cenários onde o acesso rápido a dados válidos é primordial e onde os dados inválidos são comuns. A visualização dos resultados ajuda a destacar a eficiência da abordagem adotada, mostrando uma clara distinção entre dados válidos e inválidos e o sucesso na rápida localização de dados específicos em um conjunto de dados esparsos.
 
+# Agradecimentos
+
+Um agradecimento especial ao **Prof. Marcio Garrido**, cuja orientação e conhecimento em engenharia de software, IoT e Data Science foram fundamentais para o desenvolvimento deste projeto. Com uma ampla experiência acadêmica e profissional em sistemas de informação e desenvolvimento de sistemas, Prof. Garrido é uma inspiração contínua e um recurso valioso para qualquer aluno. Para mais informações sobre suas qualificações e contribuições, consulte o [currículo Lattes](http://lattes.cnpq.br/7310316924480839) dele.
